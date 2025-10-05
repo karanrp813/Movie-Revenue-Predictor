@@ -1,7 +1,7 @@
 **End-to-End Movie Revenue Predictor**
 An interactive machine learning application that predicts the worldwide box office revenue of a movie based on its budget, genre, cast, and more. 
 This project covers the entire data science workflow from data cleaning and feature engineering to model training and deployment.
-
+Live Demo Link: https://huggingface.co/spaces/karanrp813/movie-revenue-predictor
 **Project Overview**
 This project aims to build a robust regression model to forecast movie success. The process involved several key stages:
 
