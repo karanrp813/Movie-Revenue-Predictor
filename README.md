@@ -48,7 +48,8 @@ To run the interactive Gradio app on your own machine, follow these steps:
 
 Clone the repository:
 
-git clone [https://github.com/YourUsername/YourRepository.git](https://github.com/YourUsername/YourRepository.git)
+git clone [https://github.com/YourUsername/YourRepository.git](https://github.com/karanrp813/Movie-Revenue-Predictor.git)
+
 cd YourRepository
 
 Create a virtual environment (recommended):
