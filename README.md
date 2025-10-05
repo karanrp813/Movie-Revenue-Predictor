@@ -50,7 +50,7 @@ Clone the repository:
 
 git clone [https://github.com/YourUsername/YourRepository.git](https://github.com/karanrp813/Movie-Revenue-Predictor.git)
 
-cd YourRepository
+cd Movie-Revenue-Predictor
 
 Create a virtual environment (recommended):
 
